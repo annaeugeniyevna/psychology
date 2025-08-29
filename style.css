@@ -7,7 +7,6 @@ body {
 header {
     background-color: #b0e0e6;
     color: #0a3d62;
-    text-align: center;
     padding: 1rem;
 }
 h1 {
@@ -35,3 +34,4 @@ footer {
     margin-top: 2rem;
 
 }
+
